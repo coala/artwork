@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="790.17308"
-     inkscape:cy="433.04481"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="763.88602"
+     inkscape:cy="890.62023"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,14 +207,14 @@
       </g>
     </g>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.7958712;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect29573-8"
-       width="398"
-       height="33"
-       x="898.31195"
-       y="544.82196"
-       rx="2.999999"
-       ry="3"
+       width="250.54787"
+       height="33.204124"
+       x="973.99115"
+       y="544.71991"
+       rx="1.8885514"
+       ry="3.0185571"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -222,11 +222,11 @@
        sodipodi:linespacing="125%"
        id="text29579-2"
        y="566.68121"
-       x="1202.8231"
+       x="1158.8231"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="566.68121"
-         x="1202.8231"
+         x="1158.8231"
          id="tspan29581-5"
          sodipodi:role="line">Results</tspan></text>
     <path
@@ -240,21 +240,21 @@
        d="m 1097.312,544.81281 0,33.0182"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:0.99999976px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.40755415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 904.53366,545.02569 192.57454,0 0,2.96295 0,26.66654 0,2.96295 -192.57454,0 c -3.33395,0 -6.01795,-1.32147 -6.01795,-2.96295 l 0,-26.66654 c 0,-1.64148 2.684,-2.96295 6.01795,-2.96295 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.15724719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 968.05245,544.90054 129.18095,0 0,2.9857 0,26.87133 0,2.98571 -129.18095,0 c -2.23644,0 -4.03689,-1.33161 -4.03689,-2.98571 l 0,-26.87133 c 0,-1.65409 1.80045,-2.9857 4.03689,-2.9857 z"
        id="path29603-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccccssss" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="994.31488"
+       x="1030.3149"
        y="564.8241"
        id="text29605-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan29607-4"
-         x="994.31488"
+         x="1030.3149"
          y="564.8241">Configuration</tspan></text>
     <rect
        style="display:inline;fill:#e5e6e5;fill-opacity:1;stroke:#babdb6;stroke-width:0.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -499,14 +499,14 @@
       </g>
     </g>
     <rect
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.99999976;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.83758634;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect29573-8-6"
-       width="398"
-       height="33"
-       x="897.44885"
-       y="23.081877"
-       rx="2.999999"
-       ry="3"
+       width="277.84991"
+       height="33.162415"
+       x="955.18011"
+       y="23.000669"
+       rx="2.0943453"
+       ry="3.0147648"
        inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
@@ -516,31 +516,31 @@
        d="m 1096.4488,23.072729 0,33.018199"
        style="display:inline;fill:none;stroke:#a7a7a7;stroke-width:0.99999976px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1" />
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.40755415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-       d="m 1290.227,55.878042 -192.5744,0 0,-2.9629 0,-26.66658 0,-2.96295 192.5744,0 c 3.334,0 6.018,1.32147 6.018,2.96295 l 0,26.66658 c 0,1.6414 -2.684,2.9629 -6.018,2.9629 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#a7a7a7;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:1.18349767;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       d="m 1232.7565,55.99007 -135.2159,0 0,-2.983268 0,-26.8499 0,-2.983318 135.2159,0 c 2.341,0 4.2255,1.330554 4.2255,2.983318 l 0,26.8499 c 0,1.652683 -1.8845,2.983268 -4.2255,2.983268 z"
        id="path29603-1-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sccccssss" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
-       x="993.45172"
+       x="1023.4517"
        y="43.084015"
        id="text29605-7-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan29607-4-4"
-         x="993.45172"
+         x="1023.4517"
          y="43.084015">Configuration</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text29579-2-8"
        y="43.99485"
-       x="1199.9784"
+       x="1167.9784"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
          y="43.99485"
-         x="1199.9784"
+         x="1167.9784"
          id="tspan29581-5-1"
          sodipodi:role="line">Results</tspan></text>
     <rect
