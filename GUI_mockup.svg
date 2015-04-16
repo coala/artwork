@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.90509668"
-     inkscape:cx="1111.9151"
-     inkscape:cy="387.9115"
+     inkscape:cx="935.13844"
+     inkscape:cy="653.07654"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -701,5 +701,65 @@
          x="759.72449"
          y="771.36517"
          style="font-style:italic;fill:#babdb6">TODO: Section list</tspan></text>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3.0000002"
+       rx="2.9999986"
+       y="545.01111"
+       x="1361.42"
+       height="33.000004"
+       width="33.000004"
+       id="rect13768-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <g
+       id="g13836-7"
+       style="display:inline"
+       transform="matrix(0.26458331,0,0,0.26458332,831.79017,24.403415)">
+      <ellipse
+         cy="2024.3225"
+         cx="2058.4138"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         id="ellipse13838-2"
+         rx="17.027222"
+         ry="17.007874" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         d="m 2071.6572,2037.551 15.1353,15.1181"
+         id="path13840-08"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lapo.fedora/SparkleShare/gnome-mockups/content selection/content-selection.png"
+       ry="3.0000002"
+       rx="2.9999986"
+       y="23.519865"
+       x="1360.3152"
+       height="33.000004"
+       width="33.000004"
+       id="rect13768-79"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:nonzero;stroke:#a7a7a7;stroke-width:0.9999997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <g
+       id="g13836-0"
+       style="display:inline"
+       transform="matrix(0.26458331,0,0,0.26458332,830.68532,-497.08784)">
+      <ellipse
+         cy="2024.3225"
+         cx="2058.4138"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         id="ellipse13838-8"
+         rx="17.027222"
+         ry="17.007874" />
+      <path
+         inkscape:connector-curvature="0"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#2e3436;stroke-width:7.55905533;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         d="m 2071.6572,2037.551 15.1353,15.1181"
+         id="path13840-8"
+         sodipodi:nodetypes="cc" />
+    </g>
   </g>
 </svg>
