@@ -38,9 +38,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.56"
-     inkscape:cx="713.64503"
-     inkscape:cy="447.27695"
+     inkscape:zoom="0.64"
+     inkscape:cx="790.17308"
+     inkscape:cy="433.04481"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -340,12 +340,12 @@
     <text
        sodipodi:linespacing="125%"
        id="text25682-6"
-       y="625.92523"
-       x="109.17693"
+       y="623.92523"
+       x="97.176933"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="625.92523"
-         x="109.17693"
+         y="623.92523"
+         x="97.176933"
          id="tspan25684-9"
          sodipodi:role="line"
          style="font-size:18px">coala</tspan></text>
@@ -428,36 +428,17 @@
            transform="matrix(0,-1,-1,0,0,0)" />
       </g>
     </g>
-    <rect
-       style="fill:#0000ff;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       id="rect20140"
-       width="63.63961"
-       height="60.609154"
-       x="29.294424"
-       y="600.82404" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="31.314728"
-       y="639.20984"
-       id="text20142"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan20144"
-         x="31.314728"
-         y="639.20984"
-         style="font-size:25px;line-height:125%">ICON</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;line-height:125%;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#888a85;fill-opacity:1;stroke:none"
-       x="109.08385"
-       y="645.95093"
+       x="97.083847"
+       y="641.95093"
        id="text25686-5-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan25688-0-1"
-         x="109.08385"
-         y="645.95093">path/to/coala/root</tspan></text>
+         x="97.083847"
+         y="641.95093">path/to/coala/root</tspan></text>
     <image
        width="204.90767"
        height="152.8125"
@@ -662,5 +643,14 @@
          id="path13840-0"
          sodipodi:nodetypes="cc" />
     </g>
+    <image
+       y="601.53864"
+       x="32.443619"
+       id="image37603"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAASdEVY dFRpdGxlAEZpbGUgTWFuYWdlck5zg+EAAAAXdEVYdEF1dGhvcgBMYXBvIENhbGFtYW5kcmVp35Ea KgAAABh0RVh0Q3JlYXRpb24gVGltZQAyMDA5LTExLTIyx8HMJgAAA45JREFUOI2dlcuPFUUUh796 dDeZxwIYZGAGhAkzQCI6rAy4YSErAy6Mr2DcEOPfoP4LPhMXxq3RHRhdGXVBAoQIcUHGeUAiEYeH MwRD973d9/atqlMu7twBJjMX9Zd0Kqmu89WvT5+co2KM9HTu3DnrY/tMjPEkaxRjpHs00ovp7kWM Nt9nyeArx44d873zqndoBfrdzh1jL+7dsy81xqCU6j6ohyAiUYQYIxIFEWHx1s3O7zdu/Dy4afjl Htz2bgi0z+55euL42M7xJASPSEBrjdYapXQXLIJEIYSASBcqMTI+tjs1xh5fuDZ/Fjj5GNj7cGLz 5i00ywZKKayxGGuxWKzRGGPBQAjdr41EkIiIp2p12LplayJBTvR4q2ARYXlpiTt/3UJE1qb4idox Oo7Eh3GPgZXSVGXF9PRhsmwTiU1IknRlTQBwzuG8w7kOzjsajQYzv11dTc/6YK2oWhVaGyQErs7N Mjs3y/Szh5manMQ5x+z8LAvXFpic2MfYrnGcc1RVhQTpA1aKsqywxqK1ZmZmhjffOMXX33zFhYvn V4Nee/V1zn57hpGnRnDOU5YVIn0ca6WpqhbWGLQ2HNh/kJGt23jn9LvUdXs1qNlsICLUdY3zXcdK 6X6ONa2qIgJ13abjOvz40w/ML8zRbj8EG6MZ2TZCXdegoCorjDX9HCvKqqSua7xz7N61iwf5Aw49 cwgfPM55QnD44EmSBGstaZZRViWJsRuDvQSqssVHH3/If5WxG4GDICFw5OjzPHdomqHh4X9Vbq2q 4sqvl7EbgkWQIOR5QdEouP/3fW7++Qe3Fm8zOrqd7aPbydKMpeVlFhcX2b9viv0HDpJlGXleAPEx sH4UHCRQ5AV13aau29y5fZe3Tr3N0tIyl3+5wvnzF7h+7TonXjrJ7PwcgwMDpElKnud436fcQggU RUG7rvHePbHcJEbaVUmRFwTvkbBRKiSQ5wXOdcjSjDv37q5bbtZapianqKqSTqdDnue44Ps5Foqi YGBgkCzNmNg7gXOeo0deIE0ysiyl0+n+tDRNqFoVnbomzwuCD4jE9cHaaJrNJp9+8tm6JdVPIoG4 1rFSauiLLz/HWsv7732A1hqjDdp017DSB3odLEhYbToiAQBjDBIFpdRQjLHZczwoUe5dunRxWyRC 5JG5ttLUV/fWvH9kBjrv7wGDQFPFGFFKDQHDsDLc/r8i0IgxNv8BAbl+Wlc2k/8AAAAASUVORK5C YII= "
+       preserveAspectRatio="none"
+       height="51.591667"
+       width="51.591667"
+       style="display:inline" />
   </g>
 </svg>
