@@ -1,0 +1,146 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1140.13 557.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6b9753;
+      }
+
+      .cls-1, .cls-2 {
+        fill-opacity: 0.95;
+      }
+
+      .cls-2 {
+        fill: #ccde9c;
+      }
+
+      .cls-3 {
+        fill: #baa59a;
+      }
+
+      .cls-4 {
+        fill: #8e7a72;
+        opacity: 0.49;
+      }
+
+      .cls-12, .cls-4, .cls-5, .cls-7 {
+        isolation: isolate;
+      }
+
+      .cls-5 {
+        opacity: 0.77;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-7 {
+        opacity: 0.64;
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-8 {
+        fill: url(#linear-gradient-4);
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient-5);
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient-6);
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-7);
+      }
+
+      .cls-12 {
+        opacity: 0.89;
+        fill: url(#linear-gradient-8);
+      }
+
+      .cls-13 {
+        fill: #4d6c3b;
+      }
+
+      .cls-14 {
+        font-size: 100px;
+      }
+
+      .cls-14, .cls-16, .cls-18 {
+        font-family: Roboto-Thin, Roboto;
+      }
+
+      .cls-15 {
+        fill: #8e8787;
+      }
+
+      .cls-16 {
+        font-size: 36px;
+      }
+
+      .cls-17 {
+        letter-spacing: 0.76em;
+      }
+
+      .cls-18 {
+        font-size: 21px;
+      }
+
+      .cls-19 {
+        letter-spacing: 1.48em;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="216.08" y1="492.02" x2="200.8" y2="552.46" gradientTransform="matrix(1, 0, 0, -1, 0, 1002)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcfcfc"/>
+      <stop offset="1" stop-color="#e0d8c1"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="293.42" y1="688.45" x2="353.48" y2="732.02" gradientTransform="matrix(1, 0, 0, -1, 0, 1002)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6c5852"/>
+      <stop offset="1" stop-color="#6c5852" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="241.52" y1="738.84" x2="249.33" y2="717.64" gradientTransform="matrix(1, 0, 0, -1, 0, 1002)" gradientUnits="userSpaceOnUse">
+      <stop offset="0"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="174.72" y1="661.92" x2="87.01" y2="712.52" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-5" x1="137.03" y1="680.88" x2="204.09" y2="643.39" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="373.86" y1="495.39" x2="362.5" y2="489.29" gradientTransform="matrix(0.77, 0, 0, -0.77, 8.21, 773.42)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcfcfc"/>
+      <stop offset="1" stop-color="#c7c7c7"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-7" x1="338.2" y1="570.08" x2="410.64" y2="618.34" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-8" x1="209.09" y1="507.4" x2="185.78" y2="489.61" gradientTransform="matrix(0.97, -0.23, -0.23, -0.97, 221.98, 984.16)" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <title>coala_stand_popup_display_horizontal</title>
+  <g id="layer5">
+    <path id="path4187-7-9" class="cls-1" d="M255.63,236.39A149.93,149.93,0,1,0,405.55,386.31,149.93,149.93,0,0,0,255.63,236.39Z" transform="translate(313.95 -236.39)"/>
+    <circle id="path4332-0-1" class="cls-2" cx="573.37" cy="146.14" r="138.68"/>
+    <path id="path3504" class="cls-3" d="M342.45,460.83c-5.34,2-7.34,10.77-17.3,6.54C312.4,479,293.48,480.19,278.77,478c-10.53-1.54-16.47,0-43.21-1.88,3.95,13.64,7.25,19,18.44,27.08-3.54,3.57-7.56,4.56-12.59,3.31a50.85,50.85,0,0,1,10.87,29.69C153,533.43,88.35,440.5,109.6,352.23c-3.47-21.32,4-94.28,66.53-93.48,10.13.13,20.91,7.41,33.91,17.73,34.23.61,58.11,1.68,75.72,8.05,24.63-9.32,45.17-5.84,38.64,41.13,9.64,21.75,21.15,44.76,29.11,65.63,5.38,14.12,10.12,26.69,9.88,37.36C362.87,451.5,358.86,454.63,342.45,460.83Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-7" class="cls-4" d="M172,413.22c-7.48,25.12,18,57.89,63.59,63,4,13.65,7.23,19,18.42,27.06a12.29,12.29,0,0,1-12.59,3.31c6.81,9.11,10.34,18.23,10.87,29.69-99.34-2.84-163.94-95.72-142.67-184C115.17,391.07,150.2,413.85,172,413.22Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-7-8" class="cls-5" d="M172,413.22c-7.48,25.12,18,57.89,63.59,63,4,13.73,7.24,19,18.42,27.06-3.55,3.52-7.52,4.65-12.59,3.31,6.81,9.14,10.35,18.25,10.87,29.69-11.83-18.17-36.43-25.71-51.24-35.34-52.14-33.74-40.47-74-41.29-89.39A42.39,42.39,0,0,0,172,413.22Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-22" class="cls-6" d="M285.77,284.52c18,6.49,29.4,18.49,38.64,41.13C331.1,278.93,310.38,275,285.77,284.52Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-1" class="cls-7" d="M227.64,296.33A80.1,80.1,0,0,0,210,276.47c34.23.61,58.11,1.68,75.72,8.05-.12,3.64-.2,4.84-.06,11.68-9.17.2-54.27,0-58.06.13Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-9" class="cls-8" d="M123.46,347.52c-4.49-26,9.65-69.77,46.07-69.4A40.58,40.58,0,0,1,200.1,293C205,298.83,208,309.51,210.64,314c-9.89,23-3.79,29.87-8.4,48.56-3.45,14-19,26.58-23.18,34C144.94,400.25,127.6,371.44,123.46,347.52Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-9-6" class="cls-9" d="M150.36,322.63c17,4.75,21.3-8.9,39.16-4-2.08-7.06-6.73-12.66-14.33-12.32,4.31-9.75,25-13.77,30.72-3.06,1.85,4.25,3.35,8.41,4.73,10.82-9.89,23-3.79,29.87-8.4,48.56-3.45,14-19,26.58-23.18,34a46.61,46.61,0,0,1-10.58.07c-9.77-1.42-6.87-23.78-17-25.8,2.83-5.71,8.18-7.59,14.53-6C153.39,352.82,149.06,340.47,150.36,322.63Z" transform="translate(313.95 -236.39)"/>
+    <path id="path4194-2-1-8" d="M289.36,406.48c-6-2.28-8.77-6.92-8.77-14.89,0-5.07,1.7-6.68,7.06-6.69,8.81,0,14.44,6.52,13.12,15.19C299.67,407.25,296.33,409.12,289.36,406.48Z" transform="translate(313.95 -236.39)"/>
+    <path id="path4194-2-1-7-6-5" class="cls-10" d="M291.18,399.62c-3.27-1.24-4.75-3.76-4.75-8.1,0-2.76.92-3.63,3.82-3.64,4.77,0,7.83,3.55,7.11,8.26C296.77,400,295,401.05,291.18,399.62Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-95" class="cls-11" d="M346.66,462.82c-5,2.83-12.14,7.38-21.51,4.55-8.72-20.36,2.67-20.36,2.77-41.52s20.81-45,25.59-34.56c2.4,5.24,10.31,29.15,10.35,39.82C363.93,451.5,352.18,459.67,346.66,462.82Z" transform="translate(313.95 -236.39)"/>
+    <path id="path3504-74" class="cls-12" d="M327.37,466.57c-22.94,16.13-33.67,9.49-54.08,10.47-23.85-30.66-.3-28.55,4.18-29C288.71,458.07,310.14,478.49,327.37,466.57Z" transform="translate(313.95 -236.39)"/>
+    <path id="path4187-9-5" class="cls-13" d="M105.79,390.06c0,1.25-.09,2.49-.09,3.75a149.93,149.93,0,0,0,299.85,0c0-1.26-.06-2.5-.09-3.75a149.88,149.88,0,0,1-299.68,0Z" transform="translate(313.95 -236.39)"/>
+  </g>
+  <text class="cls-14" transform="translate(802.39 175.12)">coala.<tspan class="cls-15" x="253.37" y="0">io</tspan></text>
+  <text class="cls-16" transform="translate(0 405.58)"><tspan class="cls-17" xml:space="preserve">															</tspan><tspan x="540" y="0">linting and fixing code for all languages</tspan></text>
+  <text x="313.95" y="-236.39"></text>
+  <path d="M244,709.7c-13.47,17.73-4.76,37,10.43,42,1.25.23,1.71-.54,1.71-1.2s0-2.57,0-4.65c-7,1.51-8.42-2.95-8.42-2.95-1.14-2.89-2.78-3.66-2.78-3.66-2.27-1.55.17-1.52.17-1.52a5.25,5.25,0,0,1,3.83,2.58c2.23,3.82,5.85,2.72,7.28,2.08a5.34,5.34,0,0,1,1.59-3.34c-5.55-.63-11.39-2.78-11.39-12.36A9.68,9.68,0,0,1,249,720a9,9,0,0,1,.25-6.62s2.1-.67,6.88,2.56a23.67,23.67,0,0,1,12.52,0c4.77-3.24,6.87-2.56,6.87-2.56a9,9,0,0,1,.25,6.62,9.65,9.65,0,0,1,2.57,6.71c0,9.6-5.85,11.72-11.42,12.34a6,6,0,0,1,1.7,4.63c0,3.34,0,6,0,6.86,0,.67.45,1.44,1.72,1.2A25,25,0,0,0,287.33,728C287.33,708.33,264.62,694,244,709.7Z" transform="translate(313.95 -236.39)"/>
+  <image width="1108" height="1024" transform="translate(729.78 467.88) scale(0.05)" xlink:href="GitLab_Logo.svg.png"/>
+  <image width="300" height="300" transform="translate(905.06 464.09) scale(0.17)" xlink:href="gitter.png"/>
+  <image width="1259" height="1024" transform="translate(1080.33 468.76) scale(0.04)" xlink:href="Twitter_bird_logo_2012.svg.png"/>
+  <text class="cls-18" transform="translate(362.06 551.49)"><tspan class="cls-19" xml:space="preserve">				</tspan><tspan x="144" y="0" xml:space="preserve">         coala</tspan></text>
+  <text class="cls-18" transform="translate(542.52 551.49)"><tspan class="cls-19" xml:space="preserve">				</tspan><tspan x="144" y="0" xml:space="preserve">         coala</tspan></text>
+  <text class="cls-18" transform="translate(688.73 551.49)"><tspan class="cls-19" xml:space="preserve">				</tspan><tspan x="144" y="0" xml:space="preserve">         coala/coala</tspan></text>
+  <text class="cls-18" transform="translate(886.88 551.49)"><tspan class="cls-19" xml:space="preserve">					</tspan><tspan x="180" y="0">coala_io</tspan></text>
+  <text x="313.95" y="-236.39"></text>
+</svg>
