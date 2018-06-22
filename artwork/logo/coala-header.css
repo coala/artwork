@@ -1,0 +1,25 @@
+.background {
+  background-color: #FFFFFF;
+}
+.coala {
+  float: right;
+  position: fixed;
+  top: -2vw;
+  right: 30.2vw;
+  color: #000000; 
+  font-family: 'Roboto';
+  overflow: hidden;
+  font-size: 7.2vw;
+}
+.io {
+  color: #7F7F7F; 
+  font-family: 'Roboto';
+}
+.logo-img {
+  position: fixed;
+  height: 15vw;
+  left: 30.0vw;
+  float: left;
+  max-width: 100%;
+  display:block; 
+}
