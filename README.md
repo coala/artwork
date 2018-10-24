@@ -8,4 +8,4 @@ Get In Touch
 
 This repository is maintained by Ankit (ankitstarski@gmail.com). If you
 want to get in touch with the coala community, please visit:
-<https://gitter.im/coala-analyzer/coala>.
+<https://gitter.im/coala/coala>.
